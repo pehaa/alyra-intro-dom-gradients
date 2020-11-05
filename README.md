@@ -6,7 +6,7 @@
 
 où ... sont remplacés par le nombre de dégradés
 
-2. Affichez un dégradé en tant que l'image du fond de la partie header. Pour cela vous pouvez utiliser la propriété `backgroundImage` avec la valeur `linear-gradient(90deg, ..., ...)`
+2. Affichez un dégradé en tant que l'image du fond de la partie `header`. Pour cela vous pouvez utiliser la propriété `backgroundImage` avec la valeur `linear-gradient(90deg, ..., ...)`
 
 Commencez par un dégradé choisi de la liste. Ensuite mettez en place un mécanisme aléatoire.
 
